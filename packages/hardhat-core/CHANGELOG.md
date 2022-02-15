@@ -1,5 +1,13 @@
 # hardhat
 
+## 2.8.5
+
+### Patch Changes
+
+- 04f4b3a4: Added support for BIP39 passphrases (thanks @zhuqicn!)
+- 87c50af1: A warning is now shown when a node version greater than the current LTS is used.
+- b18e043b: Improved the performance of requests to remote RPC nodes by the use of connection pooling.
+
 ## 2.8.4
 
 ### Patch Changes
